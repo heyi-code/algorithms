@@ -1,5 +1,5 @@
 # algorithms
 学习笔记
-[Java]()
-[Leetcode]()
+[Java](./Java/index.md)
+[Leetcode](./Leetcode/index.md)
 
